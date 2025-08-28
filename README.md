@@ -55,6 +55,8 @@ In root directory
 npm start
 ```
 The React app will be accessible at http://localhost:3000.
+cd C:\Users\akash\Downloads\Blood-Bank-MERN-main\Blood-Bank-MERN-main
+npm start
 
 ### Note:
 #### Set your .env
