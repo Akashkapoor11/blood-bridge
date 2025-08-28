@@ -64,5 +64,3 @@ The React app will be accessible at http://localhost:3000.
 
 ## Screenshots
 ![Alt text](screenshots/blood.png "1")
-![Alt text](screenshots/blood1.png "2")
-![Alt text](screenshots/blood2.png "3")
