@@ -64,5 +64,3 @@ The React app will be accessible at http://localhost:3000.
 
 ## Screenshots
 <img width="1896" height="857" alt="Image" src="https://github.com/user-attachments/assets/a4bb7bc7-3d4f-4f90-afe1-24446cf64901" />
-<img width="1920" height="862" alt="Image" src="https://github.com/user-attachments/assets/b61abd69-b390-4d78-9446-f5c735d6c749" />
-<img width="1920" height="846" alt="Image" src="https://github.com/user-attachments/assets/a8fd3ac4-90d0-4bce-89d2-23cca1f8953c" />
